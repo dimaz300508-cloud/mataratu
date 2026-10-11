@@ -1,0 +1,6 @@
+{
+  "name": "Himpunan MATARATU - Teknik Pertambangan Batubara",
+  "description": "Portal Resmi Organisasi Mahasiswa Tambang Batubara Bersatu (MATARATU) Politeknik Akamigas Palembang. Visi, misi, makna lambang, struktur kepengurusan, dan KTA digital.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
